@@ -3,6 +3,6 @@ Angular
 
 This repository contains angular applications.
 
-luis
+luis@hotmail.com
 Angular titulo 2
 =======
